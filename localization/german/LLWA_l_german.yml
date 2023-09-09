@@ -42,13 +42,13 @@
     
     # PMs - Ships
     LLWA_pm_no_ships:       "Kein Schifftransport"
-    LLWA_pm_sailing_barges: "Segelhäfen"
+    LLWA_pm_sailing_barges: "Segelschiffhäfen"
     LLWA_pm_steamboats:     "Dampfschiffe"
     LLWA_pm_motor_vessels:  "Motorschiffe"
     
     LLWA_pm_no_ferries:    "$pm_no_passenger_trains$"
     LLWA_pm_riverboats:    "Flussschiffe"
-    LLWA_pm_steam_ferries: "Dampfscbiffe"
+    LLWA_pm_steam_ferries: "Dampfschiffe"
     LLWA_pm_motor_ferries: "Dieselfähren"
     
     # PMs - Airlines
